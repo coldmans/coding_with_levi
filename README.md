@@ -1,4 +1,4 @@
-coding-with-levi
+
 This extension brings Levi Ackerman from Attack on Titan to life in your VS Code editor. Every time you type, Levi changes his posture and performs a cool animation of him wielding his blade. Perfect for adding some flair to your coding experience!
 
 Features
